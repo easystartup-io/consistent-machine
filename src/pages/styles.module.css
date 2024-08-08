@@ -1,0 +1,53 @@
+.heroBanner {
+  background-color: #282c34;
+  padding: 4rem 0;
+  color: white;
+  text-align: center;
+}
+
+.heroTitle {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 1.5rem;
+}
+
+.mainContent {
+  background-color: #f9f9f9;
+  padding: 3rem 0;
+  text-align: center;
+}
+
+.introduction {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.introduction h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.introduction p {
+  font-size: 1.2rem;
+}
+
+.footer {
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.footer .socialLinks a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.footer .socialLinks a:hover {
+  text-decoration: underline;
+}
+
