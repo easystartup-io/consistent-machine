@@ -60,7 +60,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Consistent Machine',
         logo: {
@@ -68,7 +67,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'right' },
+          {
+            href: 'https://x.com/consistentMach',
+            label: 'X',
+            position: 'right',
+          },
           {
             href: 'https://github.com/easystartup-io/consistent-machine',
             label: 'GitHub',
