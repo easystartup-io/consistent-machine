@@ -73,11 +73,6 @@ const config = {
             label: 'X',
             position: 'right',
           },
-          {
-            href: 'https://github.com/easystartup-io/consistent-machine',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -90,6 +85,10 @@ const config = {
           {
             label: 'Twitter',
             href: 'https://x.com/consistentMach',
+          },
+          {
+            label: 'Github',
+            href: 'https://github.com/easystartup-io/consistent-machine',
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Consistent Machine.`,

@@ -2,7 +2,6 @@
 slug: neovim-editor
 title: Yes I use neovim as my primary web development editor
 tags: [editor, neovim, setup]
-draft: true
 ---
 
 # My journey to vim
