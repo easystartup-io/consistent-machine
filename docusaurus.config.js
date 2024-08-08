@@ -88,7 +88,7 @@ const config = {
             href: 'https://x.com/consistentMach',
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Consistent Machine. | Twitter|X [https://x.com/consistentMach]`,
+        copyright: `Copyright © ${new Date().getFullYear()} Consistent Machine.`,
       },
       prism: {
         theme: prismThemes.github,
