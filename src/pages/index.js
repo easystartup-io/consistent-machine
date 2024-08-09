@@ -12,6 +12,13 @@ export default function Home() {
             Journey through technology with passion and consistency.
           </p>
         </div>
+        <div className={styles.imageContainer}>
+          <img
+            src={require('/img/home_page_cover.jpeg').default}
+            alt="Home Page Cover"
+            className={styles.heroImage}
+          />
+        </div>
       </header>
       <main className={styles.mainContent}>
         <section className={styles.introduction}>
