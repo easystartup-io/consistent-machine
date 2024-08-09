@@ -60,6 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      image: 'img/home_page_conver.jpeg',
       navbar: {
         title: 'Consistent Machine',
         logo: {
