@@ -90,8 +90,13 @@ const config = {
             label: 'Github',
             href: 'https://github.com/easystartup-io/consistent-machine',
           },
+          {
+            label: 'Email',
+            href: 'mailto:hello@consistentmachine.com',
+          },
+
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Consistent Machine.`,
+        copyright: `© ${new Date().getFullYear()} Consistent Machine. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,

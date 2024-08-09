@@ -18,8 +18,15 @@ export default function Home() {
           <div className={styles.container}>
             <h2>About Me</h2>
             <p>
-              Hi, I’m passionate about technology and love exploring new advancements. This space is where I document my journey, share insights, and explore various tech-related topics.
+              Hi. I’m passionate about technology and love exploring new advancements. This space is where I document my journey, share insights, and explore various tech-related topics. Trying to build a few saas and will document that journey.
             </p>
+          </div>
+        </section>
+        <section className={styles.blogSection}>
+          <div className={styles.container}>
+            <h2>Explore My Blog</h2>
+            <p>Discover in-depth articles, tutorials, and thoughts on technology.</p>
+            <a href="/blog" className={styles.blogLink}>Visit the Blog</a>
           </div>
         </section>
       </main>
